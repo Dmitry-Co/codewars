@@ -1,4 +1,4 @@
-[**Sum no duplicates!**](https://www.codewars.com/kata/reviews/550afa5d5951382da80009b3/groups/6512d81a8fe4510001b28058)
+[**Vowel conter!**](https://www.codewars.com/kata/reviews/550afa5d5951382da80009b3/groups/6512d81a8fe4510001b28058)
 
 > Description
 
